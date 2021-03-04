@@ -31,8 +31,8 @@ main_makeMpdelで作成したモデルを使用して、実際にシミュレー
 6. 
 もっと高度で汎用性の高いモデル
 
-<English by DeepL>
-##Description of each file
+**English by DeepL**
+## Description of each file
 
 1. main_play.py:  
 Allows a person to play minesweeper in the CUI, specifying the number of squares and the number of bombs. 
